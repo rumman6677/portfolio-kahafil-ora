@@ -1,0 +1,11 @@
+@import '@fontsource/work-sans/index.css';
+@import '@fontsource/anton';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montaga&display=swap');
+
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
