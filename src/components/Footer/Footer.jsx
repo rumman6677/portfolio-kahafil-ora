@@ -11,7 +11,7 @@ import navPic from "../../assets/Frame 12.png";
 const Footer = () => {
   return (
     <div className=" w-full mt-16   ">
-      <div className="w-[1320px] absolute -bottom-[3500px] left-[350px] h-[740px] py-9 bg-[#FFFFFF] mx-auto justify-between  md:flex">
+      <div className="w-[1320px] absolute items-center -bottom-[3500px] left-[350px] h-[740px] py-9 bg-[#FFFFFF] mx-auto justify-between  md:flex">
         <div className=" w-[420px] mx-auto">
           <div className="mt-10">
             <p className="leading-[40px] text-[32px] font-normal bg-gradient-to-r from-[#04614C] font-anton to-[#08C79C] bg-clip-text  text-transparent ">
